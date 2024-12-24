@@ -721,7 +721,7 @@ void ServerPlaySquadQuickChatMessage(AFortPlayerControllerAthena* PlayerControll
 
 void ServerReturnToMainMenu(AFortPlayerControllerAthena* PC)
 {
-	PC->ClientReturnToMainMenu(TEXT("This Gameserver was made by Marvelco and lightning has full permission to use this gameserver"));
+	PC->ClientReturnToMainMenu(TEXT("This Gameserver was made by Marvelco"));
 }
 
 void (*ClientOnPawnDiedOG)(AFortPlayerControllerAthena* PC, FFortPlayerDeathReport DeathReport);
