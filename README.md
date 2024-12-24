@@ -2,8 +2,7 @@
 
 ## This gs is discontinued no support will be provided!
 
-## This gs is the first time i ever worked on anything related with gs's and i learnt alot while doing so. this gs is shit tbh crashes randomly and has many issue but it was my first time so welp. anyways alot of the stuff i did i wouldve done it way differently
-but the gs itself was shit to begin with so rewriting it doesnt seem like a logical option!
+## This gs is the first time i ever worked on anything related with gs's and i learnt alot while doing so. this gs is shit tbh crashes randomly and has many issue but it was my first time so welp. anyways alot of the stuff i did i wouldve done it way differently but the gs itself was shit to begin with so rewriting it doesnt seem like a logical option!
 
 Ero gameserver s12 is some what of a rewrite of Eon gameserver thats fixes all the bugs/add stuff and makes its 1:1.
 
