@@ -4,7 +4,7 @@
 #include "Looting.h"
 #include <intrin.h>
 #include "Quests.h"
-
+#include "Pawn.h"
 
 void (*TickFlushOG)(UNetDriver* Driver, float a2);
 void TickFlushHook(UNetDriver* Driver, float a2)
