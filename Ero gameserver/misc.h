@@ -423,7 +423,6 @@ void __fastcall stormstuff(__int64 a1, int a2)
 
 void GameSessionRestart(AFortGameSessionDedicated* Session)
 {
-    EonApi::RemoveSession(Region, SessionName);
     ((UKismetSystemLibrary*)UKismetSystemLibrary::StaticClass()->DefaultObject)->ExecuteConsoleCommand(GetWorld(), TEXT("demostop"), nullptr);
     exit(0);
 }
